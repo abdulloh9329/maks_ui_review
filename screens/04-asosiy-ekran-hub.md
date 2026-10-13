@@ -1,4 +1,4 @@
-# Yo'lovchi asosiy ekrani (hub)
+# Yo'lovchi asosiy ekrani (hub) / Passenger home (hub)
 
 > Bolt rasmlari faqat muhokama uchun namuna; Max o'z brendini saqlaydi. Shaxsiy ma'lumotlar xiralashtirilgan.
 
@@ -13,3 +13,21 @@
 3. Pastki menyuda 3 ta bo'lim yetarlimi?
 
 Fikringizni shu mavzudagi **issue**'ga yozing yoki yangi issue oching.
+
+---
+
+## English
+
+> Bolt images are reference only for discussion; Max keeps its own brand. Personal data is blurred.
+
+**Bolt (reference):** Large service cards (Rides, Scooters, Pre-order, Food, Send), "Where to?" search, recent addresses, bottom navigation.
+
+**Max (now):** Max also has service cards (taxi, food, cargo), but layout and sizes differ from Bolt.
+
+### Questions
+
+1. Which Max services should be in the first row?
+2. Is the "Schedule" button inside the search bar convenient?
+3. Are 3 bottom-navigation sections enough?
+
+Please share your feedback in the matching **issue** or open a new one.

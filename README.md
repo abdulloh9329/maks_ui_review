@@ -1,5 +1,5 @@
 # Max — UI muhokamasi (Bolt bilan solishtirish)
-*Max taxi app UI review vs Bolt*
+*Max taxi app UI review vs Bolt* · **[English version → README.en.md](README.en.md)**
 
 **Max** — O'zbekiston uchun taksi, ovqat yetkazish va kuryer ilovasi. Biz ilova ekranlarini Bolt darajasidagi qulaylikka olib chiqmoqchimiz va sizning fikringiz kerak.
 

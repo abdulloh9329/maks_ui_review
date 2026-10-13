@@ -1,4 +1,4 @@
-# Kuryer xaritasi: talab zonalari
+# Kuryer xaritasi: talab zonalari / Courier map: demand zones
 
 > Bolt rasmlari faqat muhokama uchun namuna; Max o'z brendini saqlaydi. Shaxsiy ma'lumotlar xiralashtirilgan.
 
@@ -13,3 +13,21 @@
 3. Bu haydovchilar uchun ham kerakmi?
 
 Fikringizni shu mavzudagi **issue**'ga yozing yoki yangi issue oching.
+
+---
+
+## English
+
+> Bolt images are reference only for discussion; Max keeps its own brand. Personal data is blurred.
+
+**Bolt (reference):** High-demand zones on the map (multipliers like 1.05x), "Looking for orders" and an "Offline" button.
+
+**Max (now):** Max does not show zones.
+
+### Questions
+
+1. Show multipliers as numbers or as colours?
+2. How often should zones refresh?
+3. Is this needed for drivers too?
+
+Please share your feedback in the matching **issue** or open a new one.
